@@ -1,2 +1,5 @@
+https://cjfgkr.streamlit.app/
+
+
 # PSE
 자신의 가치관이나 사상을 입력하면 비슷한 철학자와 그/그녀의 사상을 알려주는 사이트
